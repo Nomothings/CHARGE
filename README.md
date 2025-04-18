@@ -13,7 +13,7 @@ Our evaluation reveals three critical limitations in current approaches:
 2. Even with ground-truth retrieval, state-of-the-art MLLMs achieve only 58.19% Correctness and 73.87% Coverage scores.
 3. MLLMs demonstrate consistent text-over-visual modality bias during Chart-based MRAG reasoning.
 
-**The CHARGE and Chart-MRAG Bench are released at [Hugging Face]((https://huggingface.co/datasets/ymyang/Chart-MRAG)).**
+**The CHARGE and Chart-MRAG Bench are released at [Hugging Face](https://huggingface.co/datasets/ymyang/Chart-MRAG).**
 
 **The paper can be found at [arXiv](https://arxiv.org/abs/2502.14864).**
 
